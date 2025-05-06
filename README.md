@@ -39,9 +39,7 @@ Socket.io for real-time communication
 **How to Run the Project**
 1. Clone the Repository:
 
-   git clone https://github.com/your-username/amigo-chatapp.git
-
-   cd amigo-chatapp
+   gh repo clone vanshika501/Amigo-Realtime-Chat-App
 
 3. Install Dependencies:
    Backend
